@@ -1,3 +1,3 @@
-let hw: string = "Hello, world!";
-let theName: string = "student";
-console.log(hw, theName);
+let theName: string = "Kerry";
+let hw: string = `Hello, ${theName}`;
+console.log(hw);
